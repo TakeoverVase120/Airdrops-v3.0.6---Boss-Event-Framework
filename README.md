@@ -261,7 +261,13 @@ Event definitions:
 plugins/Airdrops/events/
 ```
 
-More detailed configuration documentation will be available in the repository documentation.
+## Documentation
+
+Full documentation is available here:
+
+- [Configuration Guide](docs/CONFIGURATION.md)
+- [Boss Configuration Guide](docs/BOSSES.md)
+- [Event Configuration Guide](docs/EVENTS.md)
 
 ## v3.0.6
 
